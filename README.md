@@ -1,4 +1,7 @@
 ### Hi there, I'm Maneesha Sathsara! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+Researcher+%26+Developer;IT+%26+Stats+%40+UoK;IT+%40+UCSC;Advocate+for+Secure+AI" alt="Typing Animation" />
+</p>
 
 **🤖 AI Enthusiast | 📊 Data & Stats Geek | 🔒 Advocate for Secure AI**
 
