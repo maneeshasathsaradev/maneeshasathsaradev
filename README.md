@@ -16,4 +16,5 @@ My primary interest lies in **AI Research**. I am constantly exploring innovativ
 
 **📫 Let's Connect:**
 Always open to discussing AI research, data architecture, or collaborating on innovative projects!
-![Snake animation](https://github.com/YOUR_USERNAME/maneeshasathsaradev/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/maneeshasathsara-dev/maneeshasathsara-dev/raw/output/github-contribution-grid-snake.svg)
