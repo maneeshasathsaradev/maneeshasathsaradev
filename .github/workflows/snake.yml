@@ -1,11 +1,16 @@
 name: generate animation
 
 on:
- run වෙන්න (24 hours)
   schedule:
     - cron: "0 */24 * * *"
-  
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# මෙන්න මේ පේළි ටික අනිවාර්යයෙන් දාන්න!
+permissions:
+  contents: write
 
 jobs:
   generate:
