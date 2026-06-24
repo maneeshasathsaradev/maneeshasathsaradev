@@ -18,3 +18,9 @@ My primary interest lies in **AI Research**. I am constantly exploring innovativ
 Always open to discussing AI research, data architecture, or collaborating on innovative projects!
 
 ![Snake animation](https://raw.githubusercontent.com/maneeshasathsaradev/maneeshasathsaradev/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maneeshasathsaradev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=maneeshasathsaradev&theme=radical" alt="GitHub Streak" />
+</p>
