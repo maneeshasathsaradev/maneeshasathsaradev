@@ -30,6 +30,8 @@ Always open to discussing AI research, data architecture, or collaborating on in
 ### 🌐 Connect with me on AI Platforms
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/maneeshasathsaradev)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maneeshasathsaram)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneesha-sathsara-02467938b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maneeshasathsaradev@gmail.com)
 
 ---
 
