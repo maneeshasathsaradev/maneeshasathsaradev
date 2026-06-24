@@ -17,10 +17,31 @@ My primary interest lies in **AI Research**. I am constantly exploring innovativ
 **📫 Let's Connect:**
 Always open to discussing AI research, data architecture, or collaborating on innovative projects!
 
-![Snake animation](https://raw.githubusercontent.com/maneeshasathsaradev/maneeshasathsaradev/output/github-contribution-grid-snake.svg)
+---
 
+### 🛠️ Tech Stack & AI Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🌐 Connect with me on AI Platforms
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/maneeshasathsaradev)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maneeshasathsaram)
+
+---
+
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maneeshasathsaradev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=maneeshasathsaradev&theme=radical" alt="GitHub Streak" />
 </p>
+
+
+![Snake animation](https://raw.githubusercontent.com/maneeshasathsaradev/maneeshasathsaradev/output/github-contribution-grid-snake.svg)
+
+
+
